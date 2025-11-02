@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "Olivine Sunflower Oil 2L",
+    "category": "Cooking Oil",
+    "brand": "Olivine",
+    "brandId": "olivine",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 2.55, "promo": "Weekly Special" },
+      { "shop": "Spar", "price": 2.60, "promo": "—" },
+      { "shop": "OK Mart", "price": 2.52, "promo": "New" },
+      { "shop": "Bon Marche", "price": 2.58, "promo": "—" }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Olivine Soya Oil 750ml",
+    "category": "Cooking Oil",
+    "brand": "Olivine",
+    "brandId": "olivine",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 1.88, "promo": "Member Price" },
+      { "shop": "Spar", "price": 1.92, "promo": "—" },
+      { "shop": "OK Mart", "price": 1.85, "promo": "Deal" },
+      { "shop": "Bon Marche", "price": 1.90, "promo": "—" }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Olivine Premium Blend 2L",
+    "category": "Cooking Oil",
+    "brand": "Olivine",
+    "brandId": "olivine",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 2.72, "promo": "Special" },
+      { "shop": "Spar", "price": 2.75, "promo": "Save 10%" },
+      { "shop": "OK Mart", "price": 2.80, "promo": "—" },
+      { "shop": "Bon Marche", "price": 2.78, "promo": "—" }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Zimgold Pure Cooking Oil 2L",
+    "category": "Cooking Oil",
+    "brand": "ZimGold",
+    "brandId": "zimgold",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 2.55, "promo": "Special" },
+      { "shop": "Spar", "price": 2.58, "promo": "—" },
+      { "shop": "OK Mart", "price": 2.50, "promo": "Weekend" },
+      { "shop": "Bon Marche", "price": 2.47, "promo": "Deal" }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Zimgold Vegetable Oil 1L",
+    "category": "Cooking Oil",
+    "brand": "ZimGold",
+    "brandId": "zimgold",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 1.48, "promo": "Save Now" },
+      { "shop": "Spar", "price": 1.45, "promo": "Member Deal" },
+      { "shop": "OK Mart", "price": 1.50, "promo": "—" },
+      { "shop": "Bon Marche", "price": 1.52, "promo": "—" }
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Nestlé Cerelac 250g",
+    "category": "Baby Food",
+    "brand": "Nestlé",
+    "brandId": "nestle",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 3.25, "promo": "Special" },
+      { "shop": "Spar", "price": 3.35, "promo": "—" },
+      { "shop": "OK Mart", "price": 3.30, "promo": "Deal" },
+      { "shop": "Bon Marche", "price": 3.28, "promo": "—" }
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Nestlé Nescafe 200g",
+    "category": "Beverages",
+    "brand": "Nestlé",
+    "brandId": "nestle",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 5.55, "promo": "—" },
+      { "shop": "Spar", "price": 5.60, "promo": "—" },
+      { "shop": "OK Mart", "price": 5.50, "promo": "Weekend" },
+      { "shop": "Bon Marche", "price": 5.45, "promo": "Best Price" }
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Nestlé Milo 400g",
+    "category": "Beverages",
+    "brand": "Nestlé",
+    "brandId": "nestle",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 4.75, "promo": "Save 15%" },
+      { "shop": "Spar", "price": 4.90, "promo": "—" },
+      { "shop": "OK Mart", "price": 4.80, "promo": "Member" },
+      { "shop": "Bon Marche", "price": 4.85, "promo": "—" }
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Cairns White Bread 700g",
+    "category": "Bakery",
+    "brand": "Cairns",
+    "brandId": "cairns",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 1.87, "promo": "—" },
+      { "shop": "Spar", "price": 1.85, "promo": "Daily Fresh" },
+      { "shop": "OK Mart", "price": 1.90, "promo": "—" },
+      { "shop": "Bon Marche", "price": 1.88, "promo": "Special" }
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Cairns Brown Bread 700g",
+    "category": "Bakery",
+    "brand": "Cairns",
+    "brandId": "cairns",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 2.00, "promo": "Health Choice" },
+      { "shop": "Spar", "price": 2.05, "promo": "—" },
+      { "shop": "OK Mart", "price": 1.98, "promo": "Best Buy" },
+      { "shop": "Bon Marche", "price": 2.02, "promo": "—" }
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Probrands Toilet Paper 9pk",
+    "category": "Toiletries",
+    "brand": "Probrands",
+    "brandId": "probrands",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 4.25, "promo": "Save 15%" },
+      { "shop": "Spar", "price": 4.50, "promo": "—" },
+      { "shop": "OK Mart", "price": 4.35, "promo": "Deal" },
+      { "shop": "Bon Marche", "price": 4.40, "promo": "—" }
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Probrands Paper Towels 2pk",
+    "category": "Household",
+    "brand": "Probrands",
+    "brandId": "probrands",
+    "prices": [
+      { "shop": "Pick n Pay", "price": 3.25, "promo": "—" },
+      { "shop": "Spar", "price": 3.22, "promo": "—" },
+      { "shop": "OK Mart", "price": 3.20, "promo": "Weekend" },
+      { "shop": "Bon Marche", "price": 3.15, "promo": "Best Price" }
+    ]
+  }
+]
