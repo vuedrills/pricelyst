@@ -164,7 +164,7 @@ const ProductDetails: React.FC<{ product: SearchProduct }> = ({ product }) => {
     ];
     
     return (
-        <div className="space-y-6 max-w-[44rem]">
+        <div className="space-y-6 ml-8 max-w-[44rem]">
             {/* Main image and stores table side by side */}
             <div className="flex flex-col md:flex-row gap-6 items-start">
                 {/* Main Product Image with Thumbnails */}

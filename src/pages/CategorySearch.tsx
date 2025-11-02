@@ -364,7 +364,7 @@ const CategorySearch: React.FC = () => {
     });
 
     return (
-        <div className="ml-20">
+        <div style={{ marginLeft: '96px' }}>
             <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
                 <div className="flex flex-col lg:flex-row gap-8">
                     <div className="flex-1 ml-12 min-w-0">
